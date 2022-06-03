@@ -1,0 +1,25 @@
+h1{
+    padding:20px;
+    font-size: 60px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(248, 4, 159);
+    text-align: center;
+}
+a{
+    margin-left: 40px;
+    font-size: 30px;
+    color:blue;
+}
+.router-outlet{
+    background-color: aqua;
+    margin: 0px;
+    padding: 0px;
+    color: azure;
+    height:100%;
+    text-align: center;
+    width: 100%;
+}
+div{
+    background-color:rgb(92, 241, 92);
+}  
